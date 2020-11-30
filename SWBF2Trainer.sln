@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWBF2Trainer", "SWBF2Trainer.vcxproj", "{AB95CE6E-02B4-414F-8195-515EFF6138FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Debug|x64.ActiveCfg = Debug|x64
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Debug|x64.Build.0 = Debug|x64
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Debug|x86.Build.0 = Debug|Win32
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Release|x64.ActiveCfg = Release|x64
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Release|x64.Build.0 = Release|x64
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Release|x86.ActiveCfg = Release|Win32
+		{AB95CE6E-02B4-414F-8195-515EFF6138FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592B521D-6325-412B-B45F-7BF7904DDEA7}
+	EndGlobalSection
+EndGlobal
